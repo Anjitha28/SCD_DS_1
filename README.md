@@ -32,3 +32,6 @@ This repository contains a Python project that performs data cleaning and visual
 ```bash
 git clone https://github.com/your-username/world-population-age-barchart.git
 cd world-population-age-barchart
+
+### Step 2: Install Dependencies
+pip install pandas matplotlib seaborn
